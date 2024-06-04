@@ -27,4 +27,4 @@ Esta disciplina aborda os conceitos fundamentais de programação e o uso da lin
 
 
 
-** Este repositório irá sendo atualizado conforme a conclusão das Disciplinas
+*** Este repositório irá sendo atualizado conforme a conclusão das Disciplinas
